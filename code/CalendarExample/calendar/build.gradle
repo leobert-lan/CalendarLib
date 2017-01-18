@@ -101,7 +101,7 @@ install {
         pom {
             project {
                 packaging 'aar'
-                name '项目名'
+                name 'calendar'
                 url siteUrl
                 licenses {
                     license {
